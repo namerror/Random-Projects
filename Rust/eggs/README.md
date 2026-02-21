@@ -9,3 +9,4 @@ cargo run --bin <example_name>
 
 ## Index
 - [Hello World](./src/bin/hello_world.rs)
+- [Variables](./src/bin/variables.rs): How Rust handles variables - mutability, types, shadowing, constants, printing.
