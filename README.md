@@ -5,5 +5,5 @@ This repo is a collection of small projects I build for learning and fun. Each p
 
 ## Index
 ### Rust
-- [Hello World](./Rust/hello_world.rs): Hello World program in Rust.
+- [Eggs](./Rust/eggs/README.md): Example programs for basic Rust operations.
 - [Simple Web App](./Rust/simple-web/README.md): A simple web application built with Rust and the Nickel framework.
