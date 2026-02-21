@@ -1,0 +1,1 @@
+My starting journey into Rust with a simple web application using the Nickel framework. This project serves as a basic introduction to building web applications in Rust, demonstrating how to set up a server, define routes, and handle requests.
