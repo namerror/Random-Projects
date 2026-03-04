@@ -1,5 +1,3 @@
-use std::array;
-
 fn main() {
     let arr: [u32; 3] = [1, 2, 3]; // array
     println!("arr[0]: {}", arr[0]);
