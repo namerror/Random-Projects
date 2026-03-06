@@ -1,3 +1,5 @@
+#![allow(unused)]
+
 #[derive(Debug)] // allow printing the enum variants for debugging purposes
 #[derive(PartialEq)] // allow comparing enum variants for equality
 enum Command {
